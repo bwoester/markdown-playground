@@ -6,3 +6,11 @@
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 okay
+
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+okay
